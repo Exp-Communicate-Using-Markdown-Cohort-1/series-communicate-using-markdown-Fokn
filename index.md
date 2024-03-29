@@ -21,3 +21,8 @@ library(tidyverse)
 data <- read_csv("data.csv")
 summary(data)
 ```
+# Test Task list
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
