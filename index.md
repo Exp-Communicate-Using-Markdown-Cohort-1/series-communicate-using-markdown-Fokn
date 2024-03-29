@@ -12,3 +12,12 @@ a short, meaningful commit message
 # Test Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Test Code
+
+``` R
+library(tidyverse)
+
+data <- read_csv("data.csv")
+summary(data)
+```
